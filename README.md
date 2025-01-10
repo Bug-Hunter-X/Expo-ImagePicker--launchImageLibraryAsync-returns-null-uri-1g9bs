@@ -1,0 +1,1 @@
+This repository demonstrates a bug in Expo's ImagePicker library where launchImageLibraryAsync can return a null uri despite a successful image selection. The bug.js file shows the problematic code, while bugSolution.js offers a solution to handle the null uri case.
